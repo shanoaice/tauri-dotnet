@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tauri.Net", "Tauri.Net\Tauri.Net.csproj", "{67BAF0E3-DB57-4CD2-B89A-895C5C98DAF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tauri.Net.Test", "Tauri.Net.Test\Tauri.Net.Test.csproj", "{B513E0A6-D8E7-48DF-A40A-143E97FAFBCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67BAF0E3-DB57-4CD2-B89A-895C5C98DAF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67BAF0E3-DB57-4CD2-B89A-895C5C98DAF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67BAF0E3-DB57-4CD2-B89A-895C5C98DAF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67BAF0E3-DB57-4CD2-B89A-895C5C98DAF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B513E0A6-D8E7-48DF-A40A-143E97FAFBCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B513E0A6-D8E7-48DF-A40A-143E97FAFBCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B513E0A6-D8E7-48DF-A40A-143E97FAFBCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B513E0A6-D8E7-48DF-A40A-143E97FAFBCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
