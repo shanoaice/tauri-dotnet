@@ -1,6 +1,8 @@
 #![feature(vec_into_raw_parts)]
-mod api;
-mod ffi;
+
+pub mod api;
+
+pub mod ffi;
 
 pub fn add(left: usize, right: usize) -> usize {
     left + right
